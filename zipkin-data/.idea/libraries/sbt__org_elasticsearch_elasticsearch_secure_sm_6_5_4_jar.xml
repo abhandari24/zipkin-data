@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.elasticsearch:elasticsearch-secure-sm:6.5.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch-secure-sm/jars/elasticsearch-secure-sm-6.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch-secure-sm/srcs/elasticsearch-secure-sm-6.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

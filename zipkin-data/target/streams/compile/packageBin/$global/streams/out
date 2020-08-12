@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\zipkin-data_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$AggregationResp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$AggregationResp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$AggregationResp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$AggregationResp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$ZipkinObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$ZipkinObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$ZipkinResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$ZipkinResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$ZipkinResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$ZipkinResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\ZipkinLogAnalysis$ZipkinObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\abhandari\bitbucket\zipkin\zipkin-data\target\scala-2.12\classes\example\ZipkinLogAnalysis$ZipkinObject$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

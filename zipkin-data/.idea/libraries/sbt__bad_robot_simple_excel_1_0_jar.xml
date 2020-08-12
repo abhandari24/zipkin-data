@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: bad.robot:simple-excel:1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/bad.robot/simple-excel/jars/simple-excel-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/bad.robot/simple-excel/srcs/simple-excel-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
