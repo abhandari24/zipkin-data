@@ -20,7 +20,7 @@ object ZipkinLogAnalysis {
 
   def main(args: Array[String]): Unit = {
 
-    val dateStart = "1596430800000" //Time is in epoch time millis
+    val dateStart = "1596430800000" //Time is in epoch time in milliseconds
     val dateEnd = "1596517199000"
     val out                    = new FileOutputStream("zipkinData"++".xls")
 
